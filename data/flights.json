@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "title": "flight to canada",
+    "time": "1pm",
+    "price": "26000",
+    "date": "26-06-2022"
+  },
+
+  {
+    "id": 1,
+    "title": "flight to iran",
+    "time": "9pm",
+    "price": "46000",
+    "date": "20-06-2022"
+  }
+
+]
